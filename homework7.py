@@ -13,4 +13,4 @@ if input_cities:
     common_cities_str = ', '.join(input_cities)
     print(f"Вам, мабуть, дуже сподобалося в містах: {common_cities_str}.".title())
 else:
-    print("Ви відкриті до чогось нового.".title())
+    print("Ви відкриті до чогось нового.")

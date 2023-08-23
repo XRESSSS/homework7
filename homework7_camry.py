@@ -16,7 +16,7 @@ car_info = {
     'number_of_cylinder': 4,
     'arrangement_of_cylinders': 'in-line',
     'full_mass': 2100,
-    'equipped_mass': 1695-1730,
+    'equipped_mass': '1695-1730',
     'type_of_mass': 'kg',
     'dimensions': {
             'type': 'mm',
